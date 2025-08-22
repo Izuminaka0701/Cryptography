@@ -1,1 +1,0 @@
-# Thuật toán Tonelli-Shanks để tính căn bậc 2 modulo p
